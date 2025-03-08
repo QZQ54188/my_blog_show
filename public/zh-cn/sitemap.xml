@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,8 +20,13 @@
                 href="https://example.com/"
                 />
   </url><url>
+    <loc>https://example.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,24 +42,6 @@
                 hreflang="zh-cn"
                 href="https://example.com/categories/"
                 />
-  </url><url>
-    <loc>https://example.com/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/links/</loc>
   </url><url>
@@ -76,6 +63,8 @@
                 hreflang="zh-cn"
                 href="https://example.com/tags/"
                 />
+  </url><url>
+    <loc>https://example.com/categories/test/</loc>
   </url><url>
     <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
   </url>
