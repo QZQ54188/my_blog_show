@@ -11,13 +11,13 @@
     <loc>https://example.com/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/lab0/</loc>
+    <loc>https://example.com/p/</loc>
   </url><url>
     <loc>https://example.com/categories/</loc>
   </url><url>
     <loc>https://example.com/links/</loc>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://example.com/post/</loc>
   </url><url>
     <loc>https://example.com/search/</loc>
   </url><url>
